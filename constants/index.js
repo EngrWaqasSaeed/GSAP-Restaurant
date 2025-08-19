@@ -8,7 +8,7 @@ const navLinks = [
     title: "About Us",
   },
   {
-    id: "work",
+    id: "art",
     title: "The Art",
   },
   {
@@ -118,7 +118,7 @@ const openingHours = [
 
 const socials = [
   {
-    name: "Instagram",
+    name: "insta",
     icon: "/images/insta.png",
     url: "#",
   },
